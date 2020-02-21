@@ -1,0 +1,24 @@
+.options{
+    display: grid;
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 100px 100px;
+    grid-gap: 50px;
+    margin: 0px auto;
+}
+
+.options div{
+    height: 40px;
+    width: 300px;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+#selected{
+    background-color: black;
+    color: white;
+}
+.hidden{
+    display: none;
+}
