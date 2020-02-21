@@ -13,8 +13,6 @@ function Rating(props){
             <i className="fa fa-star hards mediums easys" aria-hidden="true"></i>
             <i className="fa fa-star hards mediums" aria-hidden="true"></i>
             <i className="fa fa-star hards" aria-hidden="true"></i>
-            <i className="fa fa-star" aria-hidden="true"></i>
-            <i className="fa fa-star" aria-hidden="true"></i>
         </div>
     )
 }

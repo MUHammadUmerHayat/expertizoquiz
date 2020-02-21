@@ -38,13 +38,14 @@ class Question extends Component{
             type
         }=this.props
         return(
-            <div>
+            <div className="questioncontainer">
                 <h1>{`Question ${currentQuestion+1} of ${totalQuestion}`}</h1>
                 <p>{question.category}</p>
                 <Rating 
                 difficulty={difficulty}
                 />
                 <div className="question">{question.question}</div>
+                <br/>
                 <Options
                  incorrect_answers={question.incorrect_answers} 
                  correct_answer={question.correct_answer}

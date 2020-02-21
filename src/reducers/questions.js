@@ -29,7 +29,7 @@ export default function questionReducer(){
           "category": "Entertainment   A Books",
           "type": "multiple",
           "difficulty": "hard",
-          "question": "What is Ron Weasley%27s middle name   ",
+          "question": "What is Ron Weasley 7s middle name   ",
           "correct_answer": "Bilius",
           "incorrect_answers": ["Arthur", "John", "Dominic"]
         },
@@ -37,7 +37,7 @@ export default function questionReducer(){
           "category": "Entertainment   A Comics",
           "type": "multiple",
           "difficulty": "easy",
-          "question": "Who is the creator of the comic series %22The Walking Dead%22   ",
+          "question": "Who is the creator of the comic series  The Walking Dead 2   ",
           "correct_answer": "Robert Kirkman",
           "incorrect_answers": [
             "Stan Lee",
@@ -49,7 +49,7 @@ export default function questionReducer(){
           "category": "Entertainment   A Board Games",
           "type": "multiple",
           "difficulty": "medium",
-          "question": "At the start of a standard game of the Monopoly%2C if you throw a double six%2C which square would you land on   F",
+          "question": "At the start of a standard game of the Monopoly C if you throw a double six C which square would you land on   F",
           "correct_answer": "Electric Company",
           "incorrect_answers": ["Water Works", "Chance", "Community Chest"]
         },
@@ -82,11 +82,11 @@ export default function questionReducer(){
           "type": "multiple",
           "difficulty": "medium",
           "question": "In 2013 how much money was lost by Nigerian scams   ",
-          "correct_answer": "%2412.7 Billion",
+          "correct_answer": " 412.7 Billion",
           "incorrect_answers": [
-            "%2495 Million",
-            "%24956 Million",
-            "%242.7 Billion"
+            " 495 Million",
+            " 4956 Million",
+            " 42.7 Billion"
           ]
         },
         {
@@ -101,27 +101,27 @@ export default function questionReducer(){
           "category": "Entertainment   A Video Games",
           "type": "multiple",
           "difficulty": "hard",
-          "question": "In World of Warcraft lore%2C who organized the creation of the Paladins   ",
+          "question": "In World of Warcraft lore C who organized the creation of the Paladins   ",
           "correct_answer": "Alonsus Faol",
           "incorrect_answers": [
             "Uther the Lightbringer",
             "Alexandros Mograine",
-            "Sargeras%2C The Daemon Lord"
+            "Sargeras C The Daemon Lord"
           ]
         },
         {
           "category": "Entertainment   A Video Games",
           "type": "boolean",
           "difficulty": "medium",
-          "question": "In the game %22Subnautica%22%2C a %22Cave Crawler%22 will attack you.",
+          "question": "In the game  2Subnautica 2 C a  2Cave Crawler 2 will attack you.",
           "correct_answer": "True",
           "incorrect_answers": ["False"]
         },
         {
-          "category": "Entertainment   A Japanese Anime %26 Manga",
+          "category": "Entertainment   A Japanese Anime  6 Manga",
           "type": "multiple",
           "difficulty": "medium",
-          "question": "What is the name of the device that allows for infinite energy in the anime %22Dimension W%22   ",
+          "question": "What is the name of the device that allows for infinite energy in the anime  2Dimension W 2   ",
           "correct_answer": "Coils",
           "incorrect_answers": ["Wires", "Collectors", "Tesla"]
         },
@@ -129,7 +129,7 @@ export default function questionReducer(){
           "category": "Entertainment   A Video Games",
           "type": "multiple",
           "difficulty": "medium",
-          "question": "What is the name of Cream the Rabbit%27s mom in the %22Sonic the Hedgehog%22 series   ",
+          "question": "What is the name of Cream the Rabbit 7s mom in the  2Sonic the Hedgehog 2 series   ",
           "correct_answer": "Vanilla",
           "incorrect_answers": ["Peach", "Strawberry", "Mint"]
         },
@@ -149,7 +149,7 @@ export default function questionReducer(){
           "category": "Entertainment   A Television",
           "type": "multiple",
           "difficulty": "hard",
-          "question": "Which of these voices wasn%27t a choice for the House AI in %22The Simpsons Treehouse of Horror%22 short%2C House of Whacks   ",
+          "question": "Which of these voices wasn 7t a choice for the House AI in  2The Simpsons Treehouse of Horror 2 short C House of Whacks   ",
           "correct_answer": "George Clooney",
           "incorrect_answers": [
             "Matthew Perry",
@@ -161,7 +161,7 @@ export default function questionReducer(){
           "category": "Entertainment   A Music",
           "type": "multiple",
           "difficulty": "medium",
-          "question": "From which album is the Gorillaz song%2C %22On Melancholy Hill%22 featured in   ",
+          "question": "From which album is the Gorillaz song C  2On Melancholy Hill 2 featured in   ",
           "correct_answer": "Plastic Beach",
           "incorrect_answers": ["Demon Days", "Humanz", "The Fall"]
         },
@@ -177,7 +177,7 @@ export default function questionReducer(){
           "category": "Entertainment   A Video Games",
           "type": "multiple",
           "difficulty": "medium",
-          "question": "In Left 4 Dead%2C which campaign has the protagonists going through a subway in order to reach a hospital for evacuation   ",
+          "question": "In Left 4 Dead C which campaign has the protagonists going through a subway in order to reach a hospital for evacuation   ",
           "correct_answer": "No Mercy",
           "incorrect_answers": [
             "Subway Sprint",

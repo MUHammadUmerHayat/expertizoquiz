@@ -17,7 +17,7 @@ class Footer extends Component{
         const maxScore=(marks+remaingQuestion)*100/totalQuestion
 
         return(
-            <div>
+            <div className="footer">
                 <div className="score">
                 <div className="scores">
                     {`score: ${per}%`}
@@ -31,7 +31,7 @@ class Footer extends Component{
                         {
                             height: "40px",
                             width:`${per}%`,
-                            backgroundColor:"black",
+                            backgroundColor:"green",
                         }
                     }>  
                     </div>
